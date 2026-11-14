@@ -1,0 +1,16 @@
+MikCode - Web Profil Perusahaan (PHP)
+
+CARA PASANG
+1. Unggah SEMUA isi folder ini ke public_html (atau folder domain) di hosting.
+2. Buka domain Anda. Butuh PHP 5.6 ke atas, tanpa database.
+
+STRUKTUR
+index.php              halaman utama
+includes/header.php    header (logo + menu)
+includes/footer.php    footer
+assets/css/style.css   gaya dasar, hover, dan aturan mobile
+assets/img/            logo (transparan)
+
+UBAH KONTAK
+Cari "6281511116738" dan "admin@mikcode.com" di index.php,
+includes/header.php, dan includes/footer.php.
